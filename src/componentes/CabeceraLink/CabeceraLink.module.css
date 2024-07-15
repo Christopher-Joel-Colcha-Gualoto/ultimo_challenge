@@ -1,0 +1,18 @@
+.Link{
+
+    width: 100px;
+    height: 34px;
+    gap: 0px;
+    border-radius: 10px ;
+    border: 2px solid var(--blanco);
+    opacity: 1; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: var(--blanco); 
+}
+.Link:hover {
+    color: var(--azul); 
+    border: 2px solid var(--azul);
+}

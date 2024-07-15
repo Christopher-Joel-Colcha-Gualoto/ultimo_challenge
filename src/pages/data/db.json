@@ -1,0 +1,27 @@
+
+[
+    {
+        "id": 1,
+        "titulo": "Cuándo usar let, var y const?",
+        "categoria": "Fronte End",
+        "capa": "https://s3-alpha-sig.figma.com/img/17ef/6f4a/12b3502a7d7a91f629b08d1082a16d1d?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pH22OzqQ24q0xRjiEoUuAPM1x3lzPC2l2UUnDJR8Mkot4-BnMBuCTTFwWMdtC6fKnmPockvHpfBw-idovSm3mHui5aC~6J3quNoDpoRUx8JkPFjjpRIL8losI7o8m4XEY8GOQcIfBf2g8VIml22a6Rew5G0eYPCuda2VlBOi2srnnGZ9dDYztofFn6YC8HWT6EGBffrXwx8xQL881Tq~7MqTEQXsAe80aTWUhWINiBwcpMbRkIDz4troFbquCRIbNFOsJRAqlSEyRjTcSlk0ZWbJ2ZjxyuyAY9WDeFhfUp1DJY8o5tUsIi2fZvn3HPldtsx-zgot4~2I9QtCjz2oMQ__",
+        "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
+        "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
+    },
+    {
+        "id": 2,
+        "titulo": "Cuándo usar let, var y const?",
+        "categoria": "Fronte End",
+        "capa": "https://s3-alpha-sig.figma.com/img/17ef/6f4a/12b3502a7d7a91f629b08d1082a16d1d?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pH22OzqQ24q0xRjiEoUuAPM1x3lzPC2l2UUnDJR8Mkot4-BnMBuCTTFwWMdtC6fKnmPockvHpfBw-idovSm3mHui5aC~6J3quNoDpoRUx8JkPFjjpRIL8losI7o8m4XEY8GOQcIfBf2g8VIml22a6Rew5G0eYPCuda2VlBOi2srnnGZ9dDYztofFn6YC8HWT6EGBffrXwx8xQL881Tq~7MqTEQXsAe80aTWUhWINiBwcpMbRkIDz4troFbquCRIbNFOsJRAqlSEyRjTcSlk0ZWbJ2ZjxyuyAY9WDeFhfUp1DJY8o5tUsIi2fZvn3HPldtsx-zgot4~2I9QtCjz2oMQ__",
+        "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
+        "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
+    },
+    {
+        "id": 3,
+        "titulo": "Cuándo usar let, var y const?",
+        "categoria": "Fronte End",
+        "capa": "https://s3-alpha-sig.figma.com/img/17ef/6f4a/12b3502a7d7a91f629b08d1082a16d1d?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pH22OzqQ24q0xRjiEoUuAPM1x3lzPC2l2UUnDJR8Mkot4-BnMBuCTTFwWMdtC6fKnmPockvHpfBw-idovSm3mHui5aC~6J3quNoDpoRUx8JkPFjjpRIL8losI7o8m4XEY8GOQcIfBf2g8VIml22a6Rew5G0eYPCuda2VlBOi2srnnGZ9dDYztofFn6YC8HWT6EGBffrXwx8xQL881Tq~7MqTEQXsAe80aTWUhWINiBwcpMbRkIDz4troFbquCRIbNFOsJRAqlSEyRjTcSlk0ZWbJ2ZjxyuyAY9WDeFhfUp1DJY8o5tUsIi2fZvn3HPldtsx-zgot4~2I9QtCjz2oMQ__",
+        "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
+        "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
+    }
+]
