@@ -1,27 +1,74 @@
-
 [
     {
         "id": 1,
         "titulo": "Cuándo usar let, var y const?",
-        "categoria": "Fronte End",
+        "categoria": "Front End",
         "capa": "https://s3-alpha-sig.figma.com/img/17ef/6f4a/12b3502a7d7a91f629b08d1082a16d1d?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pH22OzqQ24q0xRjiEoUuAPM1x3lzPC2l2UUnDJR8Mkot4-BnMBuCTTFwWMdtC6fKnmPockvHpfBw-idovSm3mHui5aC~6J3quNoDpoRUx8JkPFjjpRIL8losI7o8m4XEY8GOQcIfBf2g8VIml22a6Rew5G0eYPCuda2VlBOi2srnnGZ9dDYztofFn6YC8HWT6EGBffrXwx8xQL881Tq~7MqTEQXsAe80aTWUhWINiBwcpMbRkIDz4troFbquCRIbNFOsJRAqlSEyRjTcSlk0ZWbJ2ZjxyuyAY9WDeFhfUp1DJY8o5tUsIi2fZvn3HPldtsx-zgot4~2I9QtCjz2oMQ__",
         "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
         "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
     },
     {
         "id": 2,
-        "titulo": "Cuándo usar let, var y const?",
-        "categoria": "Fronte End",
-        "capa": "https://s3-alpha-sig.figma.com/img/17ef/6f4a/12b3502a7d7a91f629b08d1082a16d1d?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pH22OzqQ24q0xRjiEoUuAPM1x3lzPC2l2UUnDJR8Mkot4-BnMBuCTTFwWMdtC6fKnmPockvHpfBw-idovSm3mHui5aC~6J3quNoDpoRUx8JkPFjjpRIL8losI7o8m4XEY8GOQcIfBf2g8VIml22a6Rew5G0eYPCuda2VlBOi2srnnGZ9dDYztofFn6YC8HWT6EGBffrXwx8xQL881Tq~7MqTEQXsAe80aTWUhWINiBwcpMbRkIDz4troFbquCRIbNFOsJRAqlSEyRjTcSlk0ZWbJ2ZjxyuyAY9WDeFhfUp1DJY8o5tUsIi2fZvn3HPldtsx-zgot4~2I9QtCjz2oMQ__",
+        "titulo": "Qué es JavaScript?",
+        "categoria": "Front End",
+        "capa": "https://s3-alpha-sig.figma.com/img/e242/5f5d/888e71def9f20895b46879eb33916fc1?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YTKZj-3tXQG2H7jSBJWKh5Km1RHXcV~LR-AINHYfx9MTxhwxFXng47u2DQ46~O35Q~1b04MXJWzNc2Fegq~EIPbUQhtUkJKqvkA2Cf3m8CCF4XBGsmAX91d9LJZBCtd7RIdGxi~EMCUZ3080D05h5cs2md6MtExKBPgmWrwUS1ysntxAQpSbtkaTV1~qNT7hYXowBfRxtRB3TFiWZIcT01yPkpYm2lHfxAniYV-FW7ECtHJnEia7qu6l8hgLz7YGWHGaQL5FQSJWjGsZowjtTwTMvu3VNrWaPFpG4pXgCyUfw85C61M80HIxu-F64Jroq5L89jW74MxPnimPxkLmBA__",
         "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
-        "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
+        "descripcion": "En este video te explicamos qué es JavaScript y cómo se utiliza en el desarrollo web."
     },
     {
         "id": 3,
-        "titulo": "Cuándo usar let, var y const?",
-        "categoria": "Fronte End",
-        "capa": "https://s3-alpha-sig.figma.com/img/17ef/6f4a/12b3502a7d7a91f629b08d1082a16d1d?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pH22OzqQ24q0xRjiEoUuAPM1x3lzPC2l2UUnDJR8Mkot4-BnMBuCTTFwWMdtC6fKnmPockvHpfBw-idovSm3mHui5aC~6J3quNoDpoRUx8JkPFjjpRIL8losI7o8m4XEY8GOQcIfBf2g8VIml22a6Rew5G0eYPCuda2VlBOi2srnnGZ9dDYztofFn6YC8HWT6EGBffrXwx8xQL881Tq~7MqTEQXsAe80aTWUhWINiBwcpMbRkIDz4troFbquCRIbNFOsJRAqlSEyRjTcSlk0ZWbJ2ZjxyuyAY9WDeFhfUp1DJY8o5tUsIi2fZvn3HPldtsx-zgot4~2I9QtCjz2oMQ__",
+        "titulo": "Equipo Frond End",
+        "categoria": "Front End",
+        "capa": "https://s3-alpha-sig.figma.com/img/30b7/4d8c/9590129a76e47e70bf82c5f7443ba2e5?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=IvGJE3zRfrWFvfdYC9kQtGeX9-PI1fxBgzIo7nH0iAkYPSdVsZKgBnwyIVVLaLmim2NIGkvbz42HMvYFVDvE8UYZcwyXPV2jDhO8dEa~WTH-xsdQdYaNZCujkDNRkaBp1pVy~fkKYbXaZgSKHxmv3-D2hSWDC4XWZhJ7kl3ueTpVqxuluks126lyHVt3LMEmeK1hV779WvrO98NaLWIL-q73~Stk-1UPa6797Hx35TQiOd9O1Uy3Muk4-~Xix5t~vnsYZGbzcpWZgPIlPqH6ddUXz6yE-IN9eodc-Z-a8ilfvp3IzXWC4Lnp28r659t0LdkB6BKf4jIDk~VwHFfGHw__",
         "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
-        "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
+        "descripcion": "En este video te explicamos qué es JavaScript y cómo se utiliza en el desarrollo web."
+    },
+    {
+        "id": 4,
+        "titulo": "Spring Framework",
+        "categoria": "Back End",
+        "capa": "https://s3-alpha-sig.figma.com/img/5c36/0e4d/e45012ea2655f5bfef23d860d1bf9828?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=F2dawE9tJxsMULbjXICD~U3SKrKYv~sISEzJ7-QqsyKYNWoEYY9AhCmU0qASJgswU~LwosMfXyeUZE36d7~K-gfiFBZ4o-09RnuYghb5STnwbRwlGDcqdiHTbnyYtrNQcu~Xy7zqYktm75ksMYsLb84VvGUGJHNbGUwvG8SPBtjmq5GNPqFrRSZGRa1SKW8AbygtflWLI6Ggv7p-AmAapNC8IcBXX9qYuopPt3jmx~EWd3TDKcuOCU37SELPvVelmNh7HXvQn5IYICemH7vohs8DrOOX0qY4EM3xI3QY5urvV6~pMhT8wQOtDQSmsXtrQnUKwefikJvMCfrYrmSF9A__",       
+        "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
+        "descripcion": "En este video te explicamos qué es el Spring Framework y cómo se utiliza en el desarrollo backend."
+    },
+    {
+        "id": 5,
+        "titulo": "Qué es SQL y NoSQL?",
+        "categoria": "Back End",
+        "capa": "https://s3-alpha-sig.figma.com/img/803d/6df1/644ac12d062ee849c9554deb430e15b1?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=C2v~62FwalWBXB-hBT32pySP2ImYIT5VS8p6XeDL1UJnmHIRA4QJ8HdtrNil0LUkYUcf1Ui-Z--uPXwyE~IaNnnet9oAAaqxLrUVig5JhO1uWIgeH7V1ZRQPQPBJOkP-~Du65ZjrZbf-dwERrHPZg3AGJlik~RO~VhfFu~bVn1GbuDEt9oUTkxtEqTrClwg9dwM4XzwuiNZjLnqtBKk~k2rzagWV1OEsJ-OYaWTYMinOTiPDlqvahTaT4DoDDt8fJAvoQtyccC~W3mNZoLlpubnv-mwa7M9w82-QFVlYHgJW4c9naxnLQKtUTqeKSkzK-wxW~Glvebrm11Fgyeqrmw__",
+        "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
+        "descripcion": "En este video te explicamos las diferencias entre bases de datos SQL y NoSQL y cuándo usar cada una."
+    },
+    {
+        "id": 6,
+        "titulo": "Simplificando tu código Java: Conoce los ENUM",
+        "categoria": "Back End",
+        "capa": "https://s3-alpha-sig.figma.com/img/bf26/2f6b/8192ae9a1f2d9e83e309b093de28ef61?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HJUNgzWZYMtRSKT61H0z58PZm-p4cjCfM0LiPpP4wX8sKa2gKbCegPwKVdbx-95WMazbdCSSW7wItUNjbpv36I~TVZS0NbLmuhA3NpWcKTVOW3EfuOl8r~ywk86lcy60qRx22bCLJ9qpAXuy4FfFr-iluW35t-YTMSJ3bTkIlwVAHQRMjrclrnfI8dqxbPdaa-YEAyanESjfdbD-ZtcPU8~leHN82Ept1XZu4-6CVCcrNX5cATv4ItCgKR6laB7Jy6WXVdZMDWC76iLsVKNwsxszh0Q1jhio1j7s05sJRaMFFD8tGp4jD-lyJlohVqHIJ1VRW26QZqzVf4yMCmwwLA__",
+        "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
+        "descripcion": "En este video te explicamos cómo simplificar tu código Java usando ENUMs."
+    },
+    {
+        "id": 7,
+        "titulo": "Qué son las soft skills?",
+        "categoria": "Innovación y Gestión",
+        "capa": "https://s3-alpha-sig.figma.com/img/6b75/3265/a42a7c49fb0b17eb66b63104fe15c7fc?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=phtpxKdGj-vl8KL2St0z1~ofEVgsdQaKczYmmtfIFUmCkLbQa48op8iA32fcrqdkwID5iMf2aorF5iZhSSXG7H4MZ3BiENEUI0zJQt~YvuynvFgAUbEEPXXlBpnLbgf4XImRWk4vxdV~SaF6vd77GC0adLcTABp9Rvd9-zKFCg3Mok~fwmSCMn~a~V9~ogGeP5p49cTHqKN38nSbij8nlvX5PHkDrYM0mC2Z6mtRbP6CAsV3tTXGEYysltqIR8CVKtuF8bPqiWPpdFfIfrr1bHJTLHd534GEVWNrwT1C8IsN~rosPWT~wBivcLHCe7Xsk7ZRk2SyrGw6yiSjOvcI1A__",
+        "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
+        "descripcion": "En este video te explicamos qué son las soft skills y por qué son importantes en el mundo laboral."
+    },
+    {
+        "id": 8,
+        "titulo": "Las 7 soft skills más deseadas",
+        "categoria": "Innovación y Gestión",
+        "capa": "https://s3-alpha-sig.figma.com/img/17db/da7d/3013bfab5941db6070df20b64d03c2e8?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bF8YMNy~-nkwJX~ohgQkCNx2Oeugt3OOLTeL3SD2lO2biNk38W2pMG9POFY9sngTR5zr0UsnjcKSzGPU23OcrChHmLwBVn0AWTbLoattvHPYtaL7obcEtqiLI567FgW3MU286UdFMca4sGem~vjn7MpIBUPEABhML6MNi1Klkql~DssQ9APs503pw6UDvZYIfeC2nHvfL2XysyaXnoVIY4rNlNyUJqvkbCCPpVYkvpCRgDVBQ~gJPA6DahAq75DszEk2935fk9dIebkXEfxAZ2wAwkB56LDylsYQU~Tufdo4wFbkxnNzc0HdoHQEoU95IY6cdAwuccr8rhv2Gbvy7g__",
+        "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
+        "descripcion": "En este video te explicamos cuáles son las 7 soft skills más deseadas por los empleadores."
+    },
+    {
+        "id": 9,
+        "titulo": "Metodologías ágiles",
+        "categoria": "Innovación y Gestión",
+        "capa": "https://s3-alpha-sig.figma.com/img/2237/ac5d/6ce7a82bd074f782e0d03ce2eae65ade?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jVYzbfAQGReuRzI-kP6oo8kAJgQbb-ug4UmfFfeB~DzuhRK6RsfJ4CFbUdY-~S90nKAyWZbxQzDm4TSsDOEO-cs98tRhkVYqzKlNoCOT1NU1XrN36Dj5ed0wHGpyWv5JuQe3g-qQ2zz9oiSGeTJrO3YJLzaP6L0AeLw6d6Ef72uKyvQVHgaj7Lxi8-UdMiiE4xcNIMRgzLlSRNy-3ha6mYuYlvH-3EVUFC55sOVO9HeMMXxdu7d5UGtcAFtgrB-C8kPIyRIiMpAAZvB8Bxltmz57KEHvhPzmG2cWBu0eXX7KJqaqz-0WkvClMHitPUAn662EB0ymOkEMtBMM4Mufdg__",
+        "video": "https://www.youtube.com/watch?v=PztCEdIJITY&t=324s&ab_channel=AluraLatam",
+        "descripcion": "En este video te explicamos qué son las metodologías ágiles y cómo se aplican en el desarrollo de software."
     }
 ]

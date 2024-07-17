@@ -1,0 +1,79 @@
+/* index.module.css */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: var(--negro);
+}
+
+.categoria {
+    width: 432px;
+    height: 70px;
+    gap: 0px;
+    border-radius: 15px ;
+    opacity: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    margin: 20px 0 10px;
+    color: var(--blanco);
+}
+
+.frontend .categoria {
+    background-color: #6BD1FF; /* Color para Front End */
+}
+
+.backend .categoria {
+    background-color: #00C86F; /* Color para Back End */
+}
+
+.innovacion .categoria {
+    background-color: #FFBA05; /* Color para Innovación y Gestión */
+}
+
+.videos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.video-card {
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.video-card img {
+    width: 100%;
+    height: auto;
+}
+
+.video-card-content {
+    padding: 10px;
+}
+
+.video-card-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+.video-card-description {
+    font-size: 14px;
+    color: #666;
+}
+
+@media (max-width: 768px) {
+    .videos {
+        justify-content: center;
+    }
+
+    .video-card {
+        width: 100%;
+    }
+}
